@@ -49,6 +49,7 @@
      <Compile Include="Assets\Tank.js" />
      <Compile Include="Assets\Test.js" />
      <Compile Include="Assets\Test2.js" />
+     <Compile Include="Assets\Test3.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
